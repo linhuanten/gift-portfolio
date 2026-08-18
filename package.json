@@ -1,0 +1,13 @@
+{
+  "name": "gift-portfolio-server",
+  "version": "1.0.0",
+  "description": "礼物设计师作品集 - 带后端同步版",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.0",
+    "multer": "^1.4.5-lts.1"
+  }
+}
